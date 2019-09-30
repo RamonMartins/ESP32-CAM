@@ -19,3 +19,4 @@ Baseado no Projeto anterior de Rui Santos, neste programa você seleciona a quan
  - Traduzido os logs do Serial
  - Função de TimeLapse
  - Código separado por funções(voids)
+ - EM BREVE: Número ilimitado de fotos
